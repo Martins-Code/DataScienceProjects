@@ -41,4 +41,4 @@ Contributions and feedback are welcome! If you have any suggestions, ideas, or b
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
