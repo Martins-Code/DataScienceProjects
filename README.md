@@ -5,6 +5,7 @@ This repository contains a collection of data science and analysis projects that
 ## Table of Contents
 
 - [Project 1: Economic Data Analysis](#project-1)
+- [Project 2: COVID-19 Analysis](#project-2)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -19,6 +20,20 @@ In this project, I conducted an analysis of economic data using the FRED API. Th
 - Drawing insights and conclusions from the analysis.
 
 Tags: data-analysis, data-visualization, FRED-API
+
+## Project 2: COVID-19 Analysis
+
+In this project, I conducted an analysis on COVID-19 data from various regions in the world to understand the highest confirmed cases, deaths, and recoveries. The project involved the following steps:
+
+- Data collection from reliable sources to gather COVID-19 datasets.
+- Data cleaning and preprocessing to ensure data accuracy.
+- Exploratory data analysis to identify regions with the highest confirmed cases, deaths, and recoveries.
+- Data visualization using interactive charts and maps to visualize the findings.
+- Drawing insights and conclusions from the analysis to understand the impact of COVID-19 in different regions.
+
+Tags: data-analysis, data-visualization, COVID-19
+
+_Note: The COVID-19 Analysis project provides valuable insights into the global impact of the pandemic and highlights the importance of understanding and monitoring the spread of the virus._
 
 ## Contributing
 
