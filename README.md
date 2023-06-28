@@ -4,8 +4,8 @@ This repository contains a collection of data science and analysis projects that
 
 ## Table of Contents
 
-- [Project 1: Economic Data Analysis](#project-1)
-- [Project 2: COVID-19 Analysis](#project-2)
+- [Project 1: Economic Data Analysis](#https://github.com/Martins-Code/DataScienceProjects/blob/main/economic_data.ipynb)
+- [Project 2: COVID-19 Analysis](#https://github.com/Martins-Code/DataScienceProjects/blob/main/covid_analysis.ipynb)
 - [Contributing](#contributing)
 - [License](#license)
 
