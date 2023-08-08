@@ -6,6 +6,7 @@ This repository contains a collection of data science and analysis projects that
 
 - [Project 1: Economic Data Analysis](https://github.com/Martins-Code/DataScienceProjects/blob/main/economic_data.ipynb)
 - [Project 2: COVID-19 Analysis](https://github.com/Martins-Code/DataScienceProjects/blob/main/covid_analysis.ipynb)
+- [Project 3: Salary Data Analysis](https://github.com/Martins-Code/DataScienceProjects/blob/main/salary_data_analysis.ipynb)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,6 +35,20 @@ In this project, I conducted an analysis on COVID-19 data from various regions i
 Tags: data-analysis, data-visualization, COVID-19
 
 _Note: The COVID-19 Analysis project provides valuable insights into the global impact of the pandemic and highlights the importance of understanding and monitoring the spread of the virus._
+
+## Project 3: Salary Data Analysis
+
+In this project, I analyzed salary data based on various factors such as age, education level, job title, and more. The project covered the following steps:
+
+- Data loading and initial exploration to understand the dataset.
+- Data preprocessing including handling missing values and categorical variables.
+- Data visualization using matplotlib, seaborn, and other libraries to gain insights.
+- Feature engineering and encoding categorical variables.
+- Splitting the data into training and testing sets.
+- Training and evaluating machine learning models (Linear Regression, Decision Tree, and Random Forest).
+- Visualizing model performance using residual plots, feature importance plots, learning curves, and cross-validated performance plots.
+
+Tags: data-analysis, data-visualization, machine-learning
 
 ## Contributing
 
